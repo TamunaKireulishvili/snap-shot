@@ -1,0 +1,29 @@
+.search input{
+    padding: 10px 0 10px 20px;
+    border-radius: 8px;
+    width: 28%;
+    background-color: rgb(245, 242, 242);
+    border:2px solid rgb(14, 14, 45);
+    outline: none;
+   
+     
+
+}
+.search button{
+  
+    position: absolute;
+    background-color:rgb(14, 14, 45);
+    padding: 6px 20px;
+    border-radius: 0 8px 8px 0; 
+    transform: translateX(-20px);
+    justify-content: center;
+    align-items: center;
+    border-color:transparent;
+
+}
+.search-icon{
+    cursor: pointer;
+    padding: 0;
+    width: 20px;
+
+}

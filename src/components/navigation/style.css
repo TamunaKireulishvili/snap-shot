@@ -1,0 +1,38 @@
+.ul-nav{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-left: 40px;
+}
+.ul-nav li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    text-align: center;
+
+}
+.ul-nav li button{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(14, 14, 45);
+    color:white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    text-decoration: none;
+    border: none;
+}
+.searched-images{
+    font-size: 35px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: rgb(14, 14, 45);
+}
+
